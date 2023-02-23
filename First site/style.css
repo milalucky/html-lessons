@@ -1,0 +1,17 @@
+.preview {
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+    color: brown;
+}
+h2 {
+    color: blue;
+}
+p {
+    color: goldenrod;
+}
+body,header {
+    background-color: blanchedalmond;
+}
